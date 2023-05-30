@@ -10,4 +10,7 @@ public:
 		x = a;
 		y = b;
 	}
+	void display{
+
+	}
 };
