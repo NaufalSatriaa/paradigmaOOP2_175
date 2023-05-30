@@ -3,5 +3,7 @@ using namespace std;
 
 class baseClass final {
 public:
+	virtual void perkenalan() {
 
+	}
 };
